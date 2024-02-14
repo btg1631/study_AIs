@@ -5,6 +5,8 @@
 
 
 ## 💻 머신러닝()
+- 기계가 일일이 코드로 명시하지 않고 동작을 데이터로부터 학습하여 실행할 수 있도록 하는 알고리즘 분야(Artuur Samuel)
+
 |*|제목|code|설명|비고|
 |--|--|--|--|--|
 |1|로지스틱 회귀|[LogisticRegression](./docs/MLs/classfications/01_LogisticRegression_simple.ipynb)|||
