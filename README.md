@@ -15,13 +15,24 @@
 |3|선형 회귀|[linearRegression](./docs/MLs/Regression/01_linearRegression_simple.ipynb)|||
 
 
+## 💻 자연어 처리(Natural Language Processing)
+- 컴퓨터에게 인간과 매우 유사한 방식으로 텍스트 및 음성 언어를 이해하는 능력을 부여하는 것과 관련된 컴퓨터 공학의 한 분야
+
+|*|제목|code|설명|비고|
+|--|--|--|--|--|
+|1|wordcloud 기본|[wordcloud_simple](./docs/NLPs/wordcloud_simple.py)|기본(영어) wordcloud 분석|||
+|2|wordcloud 한글|[wordcloud_korean](./docs/NLPs/wordcloud_korean.ipynb)|||
+|3|wordcloud 한글 정규표현식(regexp)|[wordcloud_korean_regexp](./docs/NLPs/wordcloud_korean_regexp.ipynb)|정규표현식 사용하여 복잡한 문자열 처리||
 
 
 
 ## 📚 QUEST
-|*|code|설명|비고|
-|--|--|--|--|
-|1|[RentalCarOfContractType](./docs/quests/MLs/RentalCarOfContractType.ipynb)|linear regression 사용, age 결측치 처리||
-|2|[SpineSurgeryList_FeatureEngin](./docs/quests/MLs/SpineSurgeryList_FeatureEngin.ipynb)|목표변수(재발여부), 설명변수(수치형 5개, 범주형 2개)||
-|3|[SpineSurgeryList_GridSearchCV_resampling](./docs/quests/MLs/SpineSurgeryList_GridSearchCV_resampling.ipynb)|linear regression 사용, age 결측치 처리|resampling 종류에 따른 F1 score 변화 관찰|
+|*|구분|code|설명|비고|
+|--|--|--|--|--|
+|1|MLs|[RentalCarOfContractType](./docs/quests/MLs/RentalCarOfContractType.ipynb)|linear regression 사용, age 결측치 처리||
+|2|MLs|[SpineSurgeryList_FeatureEngin](./docs/quests/MLs/SpineSurgeryList_FeatureEngin.ipynb)|목표변수(재발여부), 설명변수(수치형 5개, 범주형 2개)||
+|3|MLs|[SpineSurgeryList_GridSearchCV_resampling](./docs/quests/MLs/SpineSurgeryList_GridSearchCV_resampling.ipynb)|linear regression 사용, age 결측치 처리|resampling 종류에 따른 F1 score 변화 관찰|
+|4|NLPs|[wordcloud_regexp](./docs/quests/NLPs/wordcloud_regexp.ipynb)|Oneword Game을 wordcloud 표현|본인 작성 내용만 변환(values(list) 활용), 상위 30단어만 표시|
+
+
 
