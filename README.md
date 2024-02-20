@@ -35,7 +35,8 @@
 |2|MLs|[SpineSurgeryList_FeatureEngin](./docs/quests/MLs/SpineSurgeryList_FeatureEngin.ipynb)|목표변수(재발여부), 설명변수(수치형 5개, 범주형 2개)||
 |3|MLs|[SpineSurgeryList_GridSearchCV_resampling](./docs/MLs/SpineSurgeryList_GridSearchCV_resampling.ipynb)|linear regression 사용, age 결측치 처리|resampling 종류에 따른 F1 score 변화 관찰|
 |4|NLPs|[wordcloud_regexp](./docs/NLPs/wordcloud_regexp.ipynb)|Oneword Game을 wordcloud 표현|본인 작성 내용만 변환(values(list) 활용), 상위 30단어만 표시|
-|4|NLPs|[classification_news](./docs/NLPs/classification_news.ipynb)|IT News를 카테고리화, 카테고리 wordcloud 표시|학습된 모델을 pickle로 불러옴|
+|5|NLPs|[classification_news](./docs/NLPs/classification_news.ipynb)|IT News를 카테고리화, 카테고리 wordcloud 표시|학습된 모델을 pickle로 불러옴|
+|6|NLPs|[classification_movies](./docs/NLPs/classification_movies.ipynb)|영화 댓글에 대한 감성분석|classification_report로 model 성능 확인|
 
 
 
