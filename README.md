@@ -37,6 +37,8 @@
 |4|NLPs|[wordcloud_regexp](./docs/quests/NLPs/wordcloud_regexp.ipynb)|Oneword Game을 wordcloud 표현|본인 작성 내용만 변환(values(list) 활용), 상위 30단어만 표시|
 |5|NLPs|[classification_news](./docs/quests/NLPs/classification_news.ipynb)|IT News를 카테고리화, 카테고리 wordcloud 표시|학습된 모델을 pickle로 불러옴|
 |6|NLPs|[classification_movies](./docs/quests/NLPs/classification_movies.ipynb)|영화 댓글에 대한 감성분석|classification_report로 model 성능 확인|
+|7|NLPs|[TDM_similarity_seoul120](./docs/quests/NLPs/TDM_similarity_seoul120.ipynb.ipynb)|민원 내용에서 유사한 신고 내용 찾기||
+|8|NLPs|[LDA_seoul120](./docs/quests/NLPs/LDA_seoul120.ipynb.ipynb)|LDA 적용과 LDAvis 적용||
 
 
 
